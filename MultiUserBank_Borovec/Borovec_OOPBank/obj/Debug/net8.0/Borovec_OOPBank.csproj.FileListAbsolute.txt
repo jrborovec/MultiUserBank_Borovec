@@ -1,0 +1,14 @@
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\bin\Debug\net8.0\Borovec_OOPBank.exe
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\bin\Debug\net8.0\Borovec_OOPBank.deps.json
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\bin\Debug\net8.0\Borovec_OOPBank.runtimeconfig.json
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\bin\Debug\net8.0\Borovec_OOPBank.dll
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\bin\Debug\net8.0\Borovec_OOPBank.pdb
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\obj\Debug\net8.0\Borovec_OOPBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\obj\Debug\net8.0\Borovec_OOPBank.AssemblyInfoInputs.cache
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\obj\Debug\net8.0\Borovec_OOPBank.AssemblyInfo.cs
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\obj\Debug\net8.0\Borovec_OOPBank.csproj.CoreCompileInputs.cache
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\obj\Debug\net8.0\Borovec_OOPBank.dll
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\obj\Debug\net8.0\refint\Borovec_OOPBank.dll
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\obj\Debug\net8.0\Borovec_OOPBank.pdb
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\obj\Debug\net8.0\Borovec_OOPBank.genruntimeconfig.cache
+C:\Users\Blue1\source\repos\Borovec_OOPBank\Borovec_OOPBank\obj\Debug\net8.0\ref\Borovec_OOPBank.dll

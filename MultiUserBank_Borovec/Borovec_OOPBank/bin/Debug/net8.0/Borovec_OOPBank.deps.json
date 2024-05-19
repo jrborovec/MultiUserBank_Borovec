@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Borovec_OOPBank/1.0.0": {
+        "runtime": {
+          "Borovec_OOPBank.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Borovec_OOPBank/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
